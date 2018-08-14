@@ -29,4 +29,8 @@ This is the first in a series of short exercises to help you get the hang of loo
 
 3. Then, run the file by typing `ruby looping.rb` in your terminal from the directory of this lab. You'll be stuck in an infinite levitation loop! Hit `Control`+`C` to exit the infinite loop. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-looping-loop/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-looping-loop/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG The `loop` Construct</p>
